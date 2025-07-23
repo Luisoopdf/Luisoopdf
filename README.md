@@ -32,8 +32,6 @@ src="https://img.shields.io/twitter/follow/LuisoPdf?logo=twitter&style=for-the-b
 
 ### Badges
 
-<a href="https://github.com/Luisoopdf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisoopdf&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Luisoopdf&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Luisoopdf/WebSitePersonal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Luisoopdf&repo=WebSitePersonal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Luisoopdf/Fronted-Store" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Luisoopdf&repo=Fronted-Store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisoopdf&hide_border=true&layout=compact" align="center" /></div>  
