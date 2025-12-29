@@ -34,4 +34,5 @@ src="https://img.shields.io/twitter/follow/LuisoPdf?logo=twitter&style=for-the-b
 
 ### Badges
 
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luisoopdf&layout=compact&theme=tokyonight)
+
