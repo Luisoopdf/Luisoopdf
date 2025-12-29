@@ -34,6 +34,4 @@ src="https://img.shields.io/twitter/follow/LuisoPdf?logo=twitter&style=for-the-b
 
 ### Badges
 
-<img src="https://github-readme-stats.vercel.app/api?username=Luisoopdf&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisoopdf&hide_border=true&layout=compact" align="center" /></div>  
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
