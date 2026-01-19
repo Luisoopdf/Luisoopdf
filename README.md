@@ -9,7 +9,6 @@ Web dev in progress
 LuisoPdf — future fullstack dev. I study, practice, and create. Rock, videogames, and code. I don’t follow paths — I build them.
 
 * 🌍  I'm based in Mexico City.
-* 🖥️  See my portfolio at [My projects](http://luisopdf.netlify.app/)
 * ✉️  You can contact me at [luis.enrique.cruz01@outlook.com](mailto:luis.enrique.cruz01@outlook.com)
 * 🧠  I'm learning SQL, Git, HTML/CSS/JavaScript, C, C++, C# and Python.
 * 🤝  I'm open to collaborating on Web dDevelopment
